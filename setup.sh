@@ -6,3 +6,4 @@ bash $SCRIPT_ROOT/daemons.sh
 bash $SCRIPT_ROOT/console-tools.sh
 bash $SCRIPT_ROOT/dev-tools.sh
 bash $SCRIPT_ROOT/xorg-setup.sh
+bash $SCRIPT_ROOT/multimedia.sh
